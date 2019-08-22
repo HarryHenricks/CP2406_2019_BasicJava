@@ -1,4 +1,4 @@
-package week4.DebuggingExercisesFixed;// This application gets a user's name and displays a greeting
+package week4.DebuggingExercisesFixedChapter3;// This application gets a user's name and displays a greeting
 import java.util.Scanner;
 public class FixDebugThree3
 {

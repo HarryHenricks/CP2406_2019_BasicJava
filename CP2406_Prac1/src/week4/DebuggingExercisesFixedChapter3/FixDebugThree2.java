@@ -1,4 +1,4 @@
-package week4.DebuggingExercisesFixed;
+package week4.DebuggingExercisesFixedChapter3;
 
 // This application displays some math facts
 public class FixDebugThree2

@@ -1,4 +1,4 @@
-package week4.DebuggingExercisesFixed;
+package week4.DebuggingExercisesFixedChapter3;
 
 // This program calculates tutition bills as credits times rate per credit hour
 public class FixDebugThree4
