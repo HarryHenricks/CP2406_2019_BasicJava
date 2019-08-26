@@ -9,6 +9,5 @@ class TestBloodData {
         BloodData bloodData = new BloodData();
         assertEquals(bloodData.bloodType, "O");
         assertEquals(bloodData.Rh_factor, '+');
-
     }
 }
